@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrizaladi
 - 👀 I’m interested in Programming and Data
-- 🌱 I’m currently learning Java Language
+- 🌱 I’m currently learning Java, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/rizaladi/
 
