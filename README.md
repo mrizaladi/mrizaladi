@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrizaladi
-- 👀 I’m interested in Programming and Data
-- 🌱 I’m currently learning Java, Python
+- 👀 I’m interested in Front End and Back End Web Developer
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/rizaladi/
 
